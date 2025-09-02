@@ -1,43 +1,40 @@
-**🔑 Password Manager**
+🔑 PASSWORD MANAGER
 
 A simple password manager web app built with React, Node.js, Express, and MongoDB.
 
-🚀 Features
+🚀 FEATURES
 
-Store and manage your passwords securely.
+✅ Securely store and manage your passwords
+✅ Add, view, and delete saved passwords
+✅ Backend powered by Express & MongoDB
+✅ Frontend built using React + Vite
+✅ Database handled via MongoDB Compass / Atlas
 
-Add, view, and delete saved passwords.
+📂 TECH STACK
 
-Backend powered by Express & MongoDB.
+Frontend → React, Vite, HTML, CSS
 
-Frontend built using React + Vite.
+Backend → Node.js, Express
 
-Database handled via MongoDB Compass.
+Database → MongoDB (Compass / Atlas)
 
-📂 Tech Stack
-
-Frontend: React, Vite, HTML, CSS
-
-Backend: Node.js, Express
-
-Database: MongoDB (Compass / Atlas)
-
-⚙️ Setup Instructions
-1️⃣ Backend Setup
+⚙️ SETUP INSTRUCTIONS
+🔹 1️⃣ Backend Setup
 cd backend
 npm install
-
-2️⃣ Run the backend:
 npm start
 
-3️⃣ Frontend Setup
+🔹 2️⃣ Frontend Setup
 cd ../frontend
 npm install
-Run the frontend:
 npm run dev
 
-4️⃣ Open in Browser
-Frontend runs on: http://localhost:5173/
-Backend runs on: http://localhost:3000/
+🔹 3️⃣ Open in Browser
 
-📸 Screenshots
+🌐 Frontend → http://localhost:5173/
+
+⚡ Backend → http://localhost:3000/
+
+📸 SCREENSHOTS
+
+(Add your app screenshots here for better presentation 🚀)
