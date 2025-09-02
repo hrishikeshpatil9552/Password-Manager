@@ -2,6 +2,7 @@
 
 A simple password manager web app built with React, Node.js, Express, and MongoDB.
 
+____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 **🚀 FEATURES**
 
@@ -37,11 +38,29 @@ npm run dev
 
 ⚡ Backend → http://localhost:3000/
 
-**📸 SCREENSHOTS**
-**1) Interface Of page**
-![Image Alt](https://github.com/hrishikeshpatil9552/Password-Manager/blob/main/mongodb%20databse.png)
+# 📊 MONGODB COMPASS VISUALIZATION
 
-**2) WorkFlow Of Project (link on Below page)**
-![Image Alt](https://github.com/hrishikeshpatil9552/Documentation-To-Summary-Convertor/blob/b4286cbc743180da67922c92e47f12861e7fd1bf/interface%20for%20the%20%20topic.png)
+Want to see your saved passwords in MongoDB Compass?
+
+Open MongoDB Compass
+
+Enter the connection string:
+
+mongodb://localhost:27017/
+
+
+Click Connect
+
+Select the passwordmanager database
+
+Inside, open the passwords collection → you’ll see all your saved entries.
+
+**📸 SCREENSHOTS**
+
+**1) Interface Of page**
+![Image Alt]()
+
+**2) Backend of Project**
+![Image Alt](https://github.com/hrishikeshpatil9552/Password-Manager/blob/main/mongodb%20databse.png)
 
 
